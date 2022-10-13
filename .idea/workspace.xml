@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b79fd4a-2509-4d54-bb14-1717d9b996ab" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Leecode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/2-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/log/Logfile.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/log/Snapshot.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/log/Version_Number" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Backtracking_algorithm/S90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S1818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_search/S35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/JZ27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/JZ32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/JZ54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/JZ55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/JZ7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/S74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Binary_tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S273.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S335.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S457.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Double_pointer/S482.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/JZOffer/JZ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Linked_list/JZ23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Linked_list/JZ24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Linked_list/JZ25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Linked_list/JZ52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Linked_list/JZ6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Prefix_and/S1744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Prefix_and/S304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Prefix_and/S437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Prefix_and/S523.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Prefix_and/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/SecondBrush/S6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/PeekingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S166.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/S8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Simulation/s14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Sliding_window/S1423.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Sliding_window/S187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Sliding_window/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Sliding_window/S424.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Sliding_window/S643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/Stack/CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-java/src/newbrush/S151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-two/src/S45.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1znVOmm63w2oMX07dopF60mAtZU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3-two" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Leecode\3-two" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Leecode\2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Leecode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2b79fd4a-2509-4d54-bb14-1717d9b996ab" name="默认变更列表" comment="" />
+      <created>1634783809442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634783809442</updated>
+    </task>
+    <servers />
+  </component>
+</project>
