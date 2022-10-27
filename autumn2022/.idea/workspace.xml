@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 10.13 new solution">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daily/S886.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daily/S940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S4review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-cpp/1.两数之和.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-cpp/2.两数相加.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-cpp/2.两数相加.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-cpp/769.最多能完成排序的块.java" beforeDir="false" />
+    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 10.13 new solution &amp; 10.16 new solution">
+      <change afterPath="$PROJECT_DIR$/src/daily/S1822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/S904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hot/S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot/S1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665650036428</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="autumn 2022 10.13 new solution &amp; 10.16 new solution">
+      <created>1665919144991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665919144991</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +100,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="autumn 2022 init" />
     <MESSAGE value="autumn 2022 10.13 new solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 10.13 new solution" />
+    <MESSAGE value="autumn 2022 10.13 new solution &amp; 10.16 new solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 10.13 new solution &amp; 10.16 new solution" />
   </component>
 </project>
