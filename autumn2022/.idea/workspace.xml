@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 10.28 new solution 5">
-      <change afterPath="$PROJECT_DIR$/src/hot/S19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot/S227.java" afterDir="false" />
+    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 10.29 new solution S45">
+      <change afterPath="$PROJECT_DIR$/src/daily/S75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +82,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666840507132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="autumn 2022 10.28 new solution 5">
+      <created>1666961885882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961885882</updated>
+    </task>
+    <task id="LOCAL-00007" summary="autumn 2022 10.29 new solution S1773">
+      <created>1667050645293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667050645293</updated>
+    </task>
+    <task id="LOCAL-00008" summary="autumn 2022 10.29 new solution S45">
+      <created>1667050652583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667050652583</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +111,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -108,6 +137,8 @@
     <MESSAGE value="autumn 2022 10.13 new solution &amp; 10.16 new solution" />
     <MESSAGE value="autumn 2022 10.27 new solution 2" />
     <MESSAGE value="autumn 2022 10.28 new solution 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 10.28 new solution 5" />
+    <MESSAGE value="autumn 2022 10.29 new solution S1773" />
+    <MESSAGE value="autumn 2022 10.29 new solution S45" />
+    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 10.29 new solution S45" />
   </component>
 </project>
