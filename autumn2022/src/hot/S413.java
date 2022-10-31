@@ -18,6 +18,7 @@ public class S413 {
             }
             r++;
         }
+        // l=r-1时后项为0
         ans+=(r-l-2)*(r-l-1)/2;
         return ans;
     }
