@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 10.30 new solution S413">
-      <change afterPath="$PROJECT_DIR$/src/daily/S481.java" afterDir="false" />
+    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 11.1 new solution S35">
+      <change afterPath="$PROJECT_DIR$/src/hot/S162.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hot/S413.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot/S413.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667121504261</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="autumn 2022 10.31 new solution S481">
+      <created>1667200846212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200846212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="autumn 2022 11.1 new solution S34">
+      <created>1667283783262</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667283783262</updated>
+    </task>
+    <task id="LOCAL-00016" summary="autumn 2022 11.1 new solution S35">
+      <created>1667284742549</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667284742549</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +200,9 @@
     <MESSAGE value="autumn 2022 10.30 new solution S141" />
     <MESSAGE value="autumn 2022 10.30 new solution S142" />
     <MESSAGE value="autumn 2022 10.30 new solution S413" />
-    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 10.30 new solution S413" />
+    <MESSAGE value="autumn 2022 10.31 new solution S481" />
+    <MESSAGE value="autumn 2022 11.1 new solution S34" />
+    <MESSAGE value="autumn 2022 11.1 new solution S35" />
+    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 11.1 new solution S35" />
   </component>
 </project>
