@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 11.1 new solution S35">
-      <change afterPath="$PROJECT_DIR$/src/hot/S162.java" afterDir="false" />
+    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 11.3 new solution S654">
+      <change afterPath="$PROJECT_DIR$/src/hot/S503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../3-two/src/Norm/ListNode.java" root0="FORCE_HIGHLIGHTING" />
@@ -159,7 +170,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667284742549</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="autumn 2022 11.1 new solution S162 二分部分结束">
+      <created>1667285937011</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667285937011</updated>
+    </task>
+    <task id="LOCAL-00018" summary="autumn 2022 11.3 new solution S42 单调栈开始">
+      <created>1667458365226</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667458365226</updated>
+    </task>
+    <task id="LOCAL-00019" summary="autumn 2022 11.3 new solution S496">
+      <created>1667459566760</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667459566760</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +235,9 @@
     <MESSAGE value="autumn 2022 10.31 new solution S481" />
     <MESSAGE value="autumn 2022 11.1 new solution S34" />
     <MESSAGE value="autumn 2022 11.1 new solution S35" />
-    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 11.1 new solution S35" />
+    <MESSAGE value="autumn 2022 11.1 new solution S162 二分部分结束" />
+    <MESSAGE value="autumn 2022 11.3 new solution S42 单调栈开始" />
+    <MESSAGE value="autumn 2022 11.3 new solution S496" />
+    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 11.3 new solution S496" />
   </component>
 </project>
