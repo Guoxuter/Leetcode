@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 11.25 new solution S538">
-      <change afterPath="$PROJECT_DIR$/src/hot/S494.java" afterDir="false" />
+    <list default="true" id="a5a1ef1e-d8f6-42ef-a3d2-e6ead92a046b" name="默认变更列表" comment="autumn 2022 11.25 new solution S494">
+      <change afterPath="$PROJECT_DIR$/src/hot/S438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot/S461.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669365248112</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="autumn 2022 11.25 new solution S538">
+      <created>1669366090556</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669366090556</updated>
+    </task>
+    <task id="LOCAL-00029" summary="autumn 2022 11.25 new solution S494">
+      <created>1669366103817</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669366103817</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +304,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="autumn 2022 init" />
     <MESSAGE value="autumn 2022 10.13 new solution" />
     <MESSAGE value="autumn 2022 10.13 new solution &amp; 10.16 new solution" />
     <MESSAGE value="autumn 2022 10.27 new solution 2" />
@@ -313,6 +328,7 @@
     <MESSAGE value="autumn 2022 11.24 new solution S581" />
     <MESSAGE value="autumn 2022 11.24 new solution S671" />
     <MESSAGE value="autumn 2022 11.25 new solution S538" />
-    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 11.25 new solution S538" />
+    <MESSAGE value="autumn 2022 11.25 new solution S494" />
+    <option name="LAST_COMMIT_MESSAGE" value="autumn 2022 11.25 new solution S494" />
   </component>
 </project>
